@@ -1209,3 +1209,4 @@ You can create and save your custom layouts with "Window"->"Save Layout"->"Save 
 [2021.11.14-15.36.17:174][727]LogSlate: Window 'Plugins' being destroyed
 [2021.11.14-15.36.17:175][727]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2021.11.14-15.38.21:305][367]LogSlate: Took 0.419654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.14-15.39.10:551][173]LogSlate: Window 'Source Control Login' being destroyed
