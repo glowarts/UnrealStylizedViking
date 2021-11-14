@@ -1210,3 +1210,120 @@ You can create and save your custom layouts with "Window"->"Save Layout"->"Save 
 [2021.11.14-15.36.17:175][727]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2021.11.14-15.38.21:305][367]LogSlate: Took 0.419654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2021.11.14-15.39.10:551][173]LogSlate: Window 'Source Control Login' being destroyed
+[2021.11.14-15.41.06:327][949]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.11.14-15.41.21:145][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2021.11.14-15.44.08:683][390]Cmd: POLY SELECT ADJACENT WALLS
+[2021.11.14-15.44.14:401][811]LogActorFactory: Actor Factory created Cylinder
+[2021.11.14-15.44.15:416][871]LogActorFactory: Actor Factory created Cylinder
+[2021.11.14-15.44.19:404][298]Cmd: TRANSACTION UNDO
+[2021.11.14-15.44.19:405][298]LogEditorTransaction: Undo Create Actors
+[2021.11.14-15.44.19:479][298]LogSlate: Took 0.004721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.14-15.44.20:508][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2021.11.14-15.47.13:845][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.14-15.47.14:189][189]LogSavePackage: Moving '../../../../../Projects/UnrealStylizedViking/UnrealVikingProject/Saved/TopDownExampleMap_Auto15026C75A4997285BDEBB929485F9CEE2.tmp' to '../../../../../Projects/UnrealStylizedViking/UnrealVikingProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2021.11.14-15.47.14:190][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.351
+[2021.11.14-15.47.14:190][189]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.351
+[2021.11.14-15.49.45:387][869]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.11.14-15.49.45:398][869]LogContentBrowser: Creating deferred item: NewWorld
+[2021.11.14-15.49.48:161][192]LogContentBrowser: Attempting asset rename: NewWorld -> Scene
+[2021.11.14-15.49.48:549][192]LogContentBrowser: End creating deferred item NewWorld
+[2021.11.14-15.49.49:753][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.14-15.49.53:093][310]LogSlate: Window 'Save Content' being destroyed
+[2021.11.14-15.49.53:157][310]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDownBP/Maps/Scene.Scene
+[2021.11.14-15.49.53:157][310]Cmd: MAP LOAD FILE="../../../../../Projects/UnrealStylizedViking/UnrealVikingProject/Content/TopDownBP/Maps/Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.14-15.49.53:158][310]LightingResults: New page: Lighting Build
+[2021.11.14-15.49.53:158][310]LoadErrors: New page: Loading map: Scene.umap
+[2021.11.14-15.49.53:951][310]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.14-15.49.53:969][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.14-15.49.53:986][310]MapCheck: New page: Map Check
+[2021.11.14-15.49.53:986][310]LightingResults: New page: Lighting Build
+[2021.11.14-15.49.53:990][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.14-15.49.53:993][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.14-15.49.53:996][310]LogAudio: Display: Audio Device (ID: 1) registered with world 'Scene'.
+[2021.11.14-15.49.53:997][310]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.14-15.49.53:997][310]LogAIModule: Creating AISystem for world Scene
+[2021.11.14-15.49.54:019][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.14-15.49.54:022][310]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.14-15.49.54:022][310]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,105ms to complete.
+[2021.11.14-15.49.54:022][310]LogFileHelpers: Loading map 'Scene' took 0.865
+[2021.11.14-15.49.57:173][645]LogActorFactory: Actor Factory created Plane
+[2021.11.14-15.49.58:029][743]LogActorFactory: Actor Factory created Plane
+[2021.11.14-15.50.10:396][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.11.14-15.50.24:759][408]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.11.14-15.50.33:138][250]Cmd: TRANSACTION UNDO
+[2021.11.14-15.50.33:138][250]LogEditorTransaction: Undo Move Actors
+[2021.11.14-15.50.41:056][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.11.14-15.50.52:723][348]LogActorFactory: Actor Factory created Cube
+[2021.11.14-15.50.53:857][447]LogActorFactory: Actor Factory created Cube
+[2021.11.14-15.50.59:634][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.11.14-15.51.09:539][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.11.14-15.51.18:464][141]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.11.14-15.51.31:653][630]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.11.14-15.52.10:175][649]Cmd: TRANSACTION UNDO
+[2021.11.14-15.52.10:175][649]LogEditorTransaction: Undo Create Actors
+[2021.11.14-15.52.17:363][304]LogEditor: Attempting to add actor of class 'ArchVisCharacter' to level at 40.00,-670.00,60.00
+[2021.11.14-15.52.19:087][363]LogEditor: Attempting to add actor of class 'ArchVisCharacter' to level at -100.00,-110.00,98.00
+[2021.11.14-15.52.22:375][722]Cmd: TRANSACTION UNDO
+[2021.11.14-15.52.22:375][722]LogEditorTransaction: Undo Create Actors
+[2021.11.14-15.53.12:848][217]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.11.14-15.53.15:235][474]LogEditorViewport: Clicking Background
+[2021.11.14-15.53.17:318][700]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.11.14-15.53.31:907][321]LogSlate: Took 0.006427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.14-15.54.23:221][701]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.11.14-15.54.23:500][719]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.11.14-15.54.26:260][ 30]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.11.14-15.56.44:370][483]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.11.14-15.56.52:478][363]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.14-15.56.53:864][512]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.11.14-15.56.54:981][639]Cmd: DELETE
+[2021.11.14-15.56.55:000][639]Cmd: ACTOR DELETE
+[2021.11.14-15.56.55:355][639]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.11.14-15.56.55:364][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.14-15.56.55:367][639]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.11.14-15.56.56:590][784]Cmd: TRANSACTION UNDO
+[2021.11.14-15.56.56:590][784]LogEditorTransaction: Undo Delete Actors
+[2021.11.14-15.57.07:754][988]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.14-15.57.37:144][281]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2021.11.14-15.57.52:328][945]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.14-15.58.42:819][436]Cmd: TRANSACTION UNDO
+[2021.11.14-15.58.42:819][436]LogEditorTransaction: Undo Edit Distance Scale
+[2021.11.14-15.59.53:617][309]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.11.14-16.00.23:851][541]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2021.11.14-16.00.26:995][868]LogEditorViewport: Clicking on Actor (LMB): VolumetricCloud (VolumetricCloud)
+[2021.11.14-16.01.23:211][168]LogEditorViewport: Clicking on Actor (LMB): VolumetricCloud (VolumetricCloud)
+[2021.11.14-16.01.23:701][223]Cmd: DELETE
+[2021.11.14-16.01.23:701][223]Cmd: ACTOR DELETE
+[2021.11.14-16.01.23:703][223]LogEditorActor: Deleted Actor: VolumetricCloud
+[2021.11.14-16.01.23:708][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.14-16.01.23:710][223]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.11.14-16.01.36:776][676]Cmd: TRANSACTION UNDO
+[2021.11.14-16.01.36:776][676]LogEditorTransaction: Undo Create Actors
+[2021.11.14-16.01.46:942][698]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.11.14-16.02.33:177][876]Cmd: DELETE
+[2021.11.14-16.02.33:177][876]Cmd: ACTOR DELETE
+[2021.11.14-16.02.33:179][876]LogEditorActor: Deleted Actor: Brush
+[2021.11.14-16.02.33:186][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.14-16.02.33:190][876]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.11.14-16.02.35:432][ 59]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.11.14-16.03.51:877][547]Cmd: TRANSACTION UNDO
+[2021.11.14-16.03.51:877][547]LogEditorTransaction: Undo Move Actors
+[2021.11.14-16.03.54:383][784]Cmd: TRANSACTION UNDO
+[2021.11.14-16.03.54:383][784]LogEditorTransaction: Undo Move Actors
+[2021.11.14-16.03.58:815][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.11.14-16.04.03:625][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.11.14-16.04.20:532][619]Cmd: TRANSACTION UNDO
+[2021.11.14-16.04.20:532][619]LogEditorTransaction: Undo Move Actors
+[2021.11.14-16.04.30:959][650]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.11.14-16.05.15:787][533]Cmd: EDIT COPY
+[2021.11.14-16.05.15:977][550]Cmd: EDIT PASTE
+[2021.11.14-16.05.47:228][962]Cmd: DELETE
+[2021.11.14-16.05.47:228][962]Cmd: ACTOR DELETE
+[2021.11.14-16.05.47:231][962]LogEditorActor: Deleted Actor: Brush
+[2021.11.14-16.05.47:237][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.14-16.05.47:241][962]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.11.14-16.06.05:973][614]Cmd: DELETE
+[2021.11.14-16.06.05:973][614]Cmd: ACTOR DELETE
+[2021.11.14-16.06.05:975][614]LogEditorActor: Deleted Actor: Brush
+[2021.11.14-16.06.05:981][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.11.14-16.06.05:986][614]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.11.14-16.06.10:091][ 33]Cmd: BRUSH ADD SELECTNEWBRUSH
